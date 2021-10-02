@@ -2058,6 +2058,7 @@ Himanshu Dedha
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
+- [Nandini Khandelwal](https://github.com/nkhandelwal07)
 - [Khushbu Mittal](https://github.com/khushbumittal23)
 - [Malik Abdul Aziz](https://github.com/crossdev-app)
 - [Ayush Arya Sinha](https://github.com/stack-queue-coder)
